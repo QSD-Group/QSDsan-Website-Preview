@@ -1,0 +1,31 @@
+html, body {
+  min-height: 100vh;
+  overflow-x: none;
+  background: #eee;
+  color: #222;
+  font-family: "IBM Plex Sans", "Arial", sans-serif;
+}
+
+.section-normal {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#section__brand {
+  margin-top: 40px;
+  text-align: center;
+}
+
+#section__construction {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.2;
+}
+
+#brand-logo {
+  height: 180px;
+  width: auto;
+}
+
